@@ -1,72 +1,39 @@
- Movie Explorer Web Application
- About the Project
+# 🎬 Movie Explorer & Recommendation Web App
 
-This is a simple Movie Explorer web application made as a student project. It allows users to search for movies and view important details like poster, genre, release year, plot, and IMDb rating. The app is responsive and easy to use.
+✨ *A simple and interactive movie search web application made as a student project.*
 
- Project Objective
+---
 
-Search movies by title
+## 📌 About the Project
+Movie Explorer is a web-based application that allows users to search for movies and view detailed information such as poster, genre, release year, plot, and IMDb rating.  
+This project is built to practice **HTML, CSS, Tailwind CSS, and JavaScript**, along with API integration.
 
-Display movie details in a clean card layout
+---
 
-Handle errors like empty input or movie not found
+## 🎯 Project Objectives
+- Search movies by title  
+- Display movie details in a card/grid layout  
+- Handle errors like empty input or movie not found  
+- Make the UI responsive for all devices  
+- Add sorting/filtering options  
 
-Apply filtering and sorting options
+---
 
-Practice API integration using JavaScript
+## 🚀 Features
+✔️ Movie search using API  
+✔️ Movie cards with poster & details  
+✔️ IMDb rating display  
+✔️ Error handling & alerts  
+✔️ Responsive UI using Tailwind CSS  
+✔️ Filter/sort movies by year or rating  
 
- Features
+---
 
- Search movies using title
+## 🛠️ Technologies Used
+- **HTML** – Structure of the app  
+- **CSS** – Custom styling  
+- **Tailwind CSS** – Responsive and modern design  
+- **JavaScript** – API calls, logic, DOM manipulation  
 
- View movie details (poster, year, genre, plot, rating)
+---
 
- Error handling for invalid or empty search
-
- Responsive design for mobile and desktop
-
- Sort/filter movies by year or rating
-
- Technologies Used
-
-HTML – Page structure
-
-CSS – Basic styling
-
-Tailwind CSS – Responsive and modern UI
-
-JavaScript – API handling and logic
-
- Project Structure
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-
- How to Run
-
-Download or clone this repository
-
-Open index.html in any web browser
-
-Enter a movie name and click search
-
- Learning Outcome
-
-Learned API integration
-
-Improved JavaScript logic and DOM manipulation
-
-Gained experience with Tailwind CSS
-
-Understood responsive design and error handling
-
- Future Improvements
-
-Add movie recommendations
-
-Implement watchlist feature
-
-Improve UI animations
-
-Add pagination for search results
